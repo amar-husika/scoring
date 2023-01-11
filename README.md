@@ -5,7 +5,7 @@ List items have pre-defined names and score attributes that start at 0.
 
 The position attribute represents the position within the list.
 
-TOGLLE FORM button randomly generates form with items from list, inputs, and submit button. 
+TOGGLE FORM button randomly generates form with items from list, inputs, and submit button. 
 
 SUBMIT button enables list item with higher value to have its score attribute value increased by one.
 

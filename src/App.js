@@ -170,7 +170,7 @@ const App = () => {
     <p>Application is built using React.js.</p>
     <p>List items have pre-defined names and score attributes that start at 0. </p>
     <p>The position attribute represents the position within the list.</p>
-    <p>TOGLLE FORM button randomly generates form with items from list, inputs, and submit button.</p> 
+    <p>TOGGLE FORM button randomly generates form with items from list, inputs, and submit button.</p> 
     <p>SUBMIT button enables list item with higher value to have its score attribute value increased by one.</p>
     <p>List is after that sorted by the value of the score attribute. </p>
     <p>This process continues until every item is compared with every other item in the list.</p>
