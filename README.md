@@ -19,7 +19,7 @@ This process continues until every item is compared with every other item in the
 
 ![scoring-b](https://i.ibb.co/NpvJhGN/scoring-b.jpg)
 
-![scoring-c](https://i.ibb.co/cXJNw8Y/scoring-c.jpg)
+![scoring-c](https://i.ibb.co/jbNBbXR/scoring-c.jpg)
 
 ![scoring](https://i.ibb.co/cybxV89/scoring.jpg)
 
