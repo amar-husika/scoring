@@ -1,0 +1,52 @@
+npm install gh-pages --save-dev
+
+in package.json
+ "homepage":"https://amar-husika.github.io/random-quote",
+ "scripts": {
+    "start": "webpack-dev-server --mode=development --open --hot",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "build": "webpack --mode=production"
+  },
+
+GIT
+git add .
+git commit -m "commit"
+git push
+npm run deploy
+
+GITHUB
+Settings -> Pages -> Link
+
+useeffect, useState, redux, mobx, useMemo useCallback ,
+ useReducer, 
+kako radi react, sta je dom, 
+kad se koristi usememo a kad callback 
+async, await, axios, destruktori , spread operator, 
+template literals, .map .reduce fetch, get , post, put, 
+typescript, if else , switch, rekurzija, callbacks
+CRUD app - Create, Read, Update, and Delete 
+
+HTML,CSS OSNOVE
+JAVASCRIPT OSNOVE I ES6
+UVOD U PROGRAMIRANJE WEB APLIKACIJA I REACT LIBARY
+PODEŠAVANJE RADNOG OKRUŽENJA
+REACT RENDER HTML
+REACT JSX
+REACT KOMPONENTE
+REACT POJAM STATE I PROPS
+REACT STATE MANAGMENT - REDUX VS MOBX
+RAD SA NIZOVIMA, DOGAĐAJIMA I FUNKCIJAMA
+REACT REFS I KEYS
+REDUX - STATE MANAGMENT
+REACT CSS
+REACT ANIMACIJE
+REACT ROUTER
+REACT LIFECYCLE
+REACT FORMS
+FETCH DATA FROM API I ASYNC STORAGE
+FLUX KONCEPT
+REACT DEBAGIRANJE
+POKRETANJE APLIKACIJE
+
+
